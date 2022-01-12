@@ -1,2 +1,2 @@
 # Color-Image-Quantization
-Implementation of median cut algorithm and dithering on an image color with MATLAB programming language, MultiMedia course assignment, Fall 2019
+Implementation of median cut algorithm and dithering on colors of an image with MATLAB programming language, MultiMedia course assignment, Fall 2019
