@@ -12,8 +12,8 @@ Result: <br/>
 ### part 1
 Plot the image's histogram graph for each one of the red, green and blue colors with MATLAB.<br/>
 Result:<br/>
-![Uploading Screenshot (3013).png…]()
+![Screenshot (3013)](https://user-images.githubusercontent.com/38253772/149294285-dbe757fe-def7-4ae6-b950-a21dd0defca0.png)
 ### part 2
 Decrease the number of bits for red and green colors to 3 bits and for blue color to 2 bits with Median cut algorithm in MATLAB.<br/>
 Result:<br/>
-![Uploading Screenshot (3015).png…]()
+![Screenshot (3015)](https://user-images.githubusercontent.com/38253772/149294242-50fc3b25-e3d8-4446-9444-1e678a240238.png)
