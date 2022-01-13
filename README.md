@@ -7,13 +7,13 @@ Result: <br/>
 ## Question 2
 Dither the given image with and without calculating its error with MATLAB<br/>
 Result: <br/>
-![Screenshot (3011)](https://user-images.githubusercontent.com/38253772/149284668-56c9f360-4e11-465c-bc53-d40a3c726d2c.png)
+![Screenshot (3017)](https://user-images.githubusercontent.com/38253772/149294696-0d00016c-f2ea-4ada-a411-033c6a8113c5.png)
 ## Question 3
 ### part 1
 Plot the image's histogram graph for each one of the red, green and blue colors with MATLAB.<br/>
 Result:<br/>
-![Screenshot (3013)](https://user-images.githubusercontent.com/38253772/149294285-dbe757fe-def7-4ae6-b950-a21dd0defca0.png)
+![Screenshot (3016)](https://user-images.githubusercontent.com/38253772/149294740-c01884d3-925e-4588-9efe-3d85f6954aca.png)
 ### part 2
 Decrease the number of bits for red and green colors to 3 bits and for blue color to 2 bits with Median cut algorithm in MATLAB.<br/>
 Result:<br/>
-![Screenshot (3015)](https://user-images.githubusercontent.com/38253772/149294242-50fc3b25-e3d8-4446-9444-1e678a240238.png)
+![Screenshot (3018)](https://user-images.githubusercontent.com/38253772/149294777-d446e87f-a159-4e4d-8222-65492e4e82eb.png)
