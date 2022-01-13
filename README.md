@@ -1,5 +1,5 @@
 # Color-Image-Quantization
-Implementation of median cut algorithm and dithering on colors of an image with MATLAB programming language, MultiMedia course assignment, Fall 2019 <br/>
+Implementation of quantization methods such as median cut algorithm and dithering on an image with MATLAB programming language, MultiMedia course assignment, Fall 2019 <br/>
 ## Question 1
 Change a given image to a 8 bit grey level and 1 bit image with MATLAB. <br/>
 Result: <br/>
